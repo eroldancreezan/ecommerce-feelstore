@@ -1,0 +1,9 @@
+Clonar repositorio.
+Crear base de datos ecommerce_db
+Runear backend.
+Iniciar frontend: Ng serve - - proxy-config proxy.conf.json
+Al probar la integración de mercado pago tener en cuenta que se debe usar una cuenta de prueba, dejo abajo información para poder probar esto mismo:
+Correo electrónico:
+TESTUSER4217220715868738156
+últimos 6 dígitos para verificar por correo:
+227242
